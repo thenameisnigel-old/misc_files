@@ -16,5 +16,5 @@ I only support devices I own. Do not create issues if you are using any other ty
 
 **Motorola Razr 5G (smith)** 
 
- - XDA Forum:
+ - XDA Forum: https://forum.xda-developers.com/c/motorola-razr-5g.11537/
  - File Directory: https://github.com/TheNameIsNigel/misc_files/tree/main/moto/smith
