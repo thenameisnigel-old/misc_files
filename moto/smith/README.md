@@ -26,8 +26,8 @@ All of the releases for the Moto Razr 5G is for the Razr2 (2020 model), specific
 
 **TWRP (2021.03.22) -**
 
- - XDA Thread:
- - Download Link:
+ - XDA Thread: 
+ - Download Link: https://github.com/TheNameIsNigel/misc_files/releases/tag/2021.03.22-twrp
 
 **CarbonROM Test Build (xxxx.xx.xx) -**
 
